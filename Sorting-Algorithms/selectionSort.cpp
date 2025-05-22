@@ -1,3 +1,5 @@
+// fruma arrayi vrayov vercnelov amen mi andamy, et vercrac angamy hamematuma mnacac andamneri het (iranic heto) gtnuma iranic amenapoqr andamy et mnacaca zangcaci mej u swapa anum
+
 #include <iostream>
 using namespace std;
 
@@ -39,4 +41,3 @@ int main()
     print_array(array, length);
 }
 
-// fruma arrayi vrayov vercnelov amen mi andamy, et vercrac angamy hamematuma mnacac andamneri het (iranic heto) gtnuma iranic amenapoqr andamy et mnacaca zangcaci mej u swapa anum

@@ -1,3 +1,5 @@
+// fruma array i vrayov vercnuma mi hatik andam u et andamy hamematuma ira naxord andamneri het enqan jamanaka qani der bolor mecen et yntrvac andamic , u et mecery anyndhat araja talis mi hatik , minchev chi handipum aveli poqr andami u swapa anum texerov dranq
+
 #include <iostream>
 using namespace std;
 
@@ -34,4 +36,3 @@ int main()
     print_array(array, length);
 }
 
-// fruma array i vrayov vercnuma mi hatik andam u et andamy hamematuma ira naxord andamneri het enqan jamanaka qani der bolor mecen et yntrvac andamic , u et mecery anyndhat araja talis mi hatik , minchev chi handipum aveli poqr andami u swapa anum texerov dranq

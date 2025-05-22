@@ -1,3 +1,5 @@
+// fruma arrayi vrayov array.length angam xosqi 5 angam , u amen angam hamematuma erku harevan andamnery , ete arajiny erkrordic meca uremn swapa anum dranq
+
 #include <iostream>
 using namespace std;
 
@@ -41,5 +43,3 @@ int main()
     print_array(array, length);
 
 }
-
-// fruma arrayi vrayov array.length angam xosqi 5 angam , u amen angam hamematuma erku harevan andamnery , ete arajiny erkrordic meca uremn swapa anum dranq

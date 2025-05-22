@@ -1,3 +1,5 @@
+// sortavoruma tvery yst dranc tvanshannery skzbun miavornerov heto tqsnavornerov yev ayln
+
 #include <iostream>
 using namespace std;
 
@@ -20,8 +22,8 @@ void print_array(int array[], int length){
 }
 
 void counting_sort(int array[], int length, int exp){
-    int output[length];
-    int count[10] ={};
+    int output[length]; // verjnakan array petqa lini iskakani chap
+    int count[10] ={};  // 10 qani vor ka yndameny 10 tvanshan
 
     for(int i =0 ; i < length; i++){
         count[(array[i] / exp) % 10]++;
@@ -60,4 +62,3 @@ int main()
     print_array(array, length);
 }
 
-// sortavoruma tvery yst dranc tvanshannery skzbun miavornerov heto tqsnavornerov yev ayln

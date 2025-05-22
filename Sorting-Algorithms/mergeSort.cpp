@@ -78,5 +78,3 @@ int main()
     merge_sort(array, 0, length - 1);
     printArray(array, length);
 }
-
-// ashxatum e "pivot" i hashvin vorpes pivot vercvum e array i amenamverjin andamy u mnacacy sksum en hamematvel dra het nranic poqr andamnery haytnvum en dra dzax koxmum isk aveli mecery aj koxmum . rekursiv kanchvum e quick sorty arden pivotic dzax yev aj kazmavorvac arrayneri hamar voronq sortavorvum en nuyn logikayov

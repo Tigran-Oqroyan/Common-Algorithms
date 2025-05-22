@@ -1,3 +1,5 @@
+// ashxatuma hetevyal logikayov stugum enq te iskakan array i mej amen andamic qani hat ka u qanaky pahum enq mi hat urish array i mej "count" HAMAPATASXAN INDEXI tak , heto pttvelov count array i vrayov yst qanaki sharum enq hamapatasxan tvery iskakan array i mej
+
 #include <iostream>
 using namespace std;
 
@@ -47,4 +49,3 @@ int main()
 
 }
 
-// ashxatuma hetevyal logikayov stugum enq te iskakan array i mej amen andamic qani hat ka u qanaky pahum enq mi hat urish array i mej "count" HAMAPATASXAN INDEXI tak , heto pttvelov count array i vrayov yst qanaki sharum enq hamapatasxan tvery iskakan array i mej
